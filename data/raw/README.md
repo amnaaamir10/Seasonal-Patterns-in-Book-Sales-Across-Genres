@@ -1,5 +1,5 @@
 # Raw Data
 
-   Place your original, unmodified source data here.
+   Goodreads-books
 
-   **Never edit files in this folder.** This is your source of truth.
+   The data is taken from the following link: https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks.
